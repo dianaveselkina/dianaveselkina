@@ -8,7 +8,7 @@
     <a href="https://t.me/DianaVeselkina">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.codewars.com/users/dianaveselkina">
+    <a href="https://wa.me/79206679001">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.codewars.com/users/dianaveselkina">
