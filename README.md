@@ -8,13 +8,13 @@
   <a href="https://www.linkedin.com/in/diana-veselkina-11295b2a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://wa.me/79206679001">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Twitter Badge"/>
+  </a>
     <a href="https://t.me/DianaVeselkina">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://wa.me/79206679001">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.codewars.com/users/dianaveselkina">
+     <a href="https://www.codewars.com/users/dianaveselkina">
     <img src="https://img.shields.io/badge/codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
