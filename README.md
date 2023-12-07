@@ -5,10 +5,7 @@
 * Постоянно изучаю новое<br><br>
   
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/diana-veselkina-11295b2a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://wa.me/79206679001">
+     <a href="https://wa.me/79206679001">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://t.me/DianaVeselkina">
