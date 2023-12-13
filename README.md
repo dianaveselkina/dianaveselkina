@@ -15,9 +15,9 @@
     <img src="https://img.shields.io/badge/codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<br>
 
-### :hammer_and_pick: Languages and Tools :
+
+### :hammer_and_wrench: Languages and Tools :
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
